@@ -22,6 +22,7 @@ $ git reset <filename>
 To view the commits
 $ git` log --all`
 $ git log --all --graph
+
 To make main as the default bracnch
 $ git branch -M main
 $ git branch // To check currnent branch
